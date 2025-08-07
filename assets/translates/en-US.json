@@ -1,0 +1,19 @@
+{
+  "app_name": "BlockFlow Test",
+
+  "button": {
+      "open_settings": "Go To Settings",
+      "cancel": "Cancel",
+      "retry": "Retry"
+  },
+
+
+  "camera": {
+    "test_task": "Camera Test Task",
+    "error": "Something went wrong with the camera. Please try again.",
+    "perm": {
+      "title": "Camera Permission Required",
+      "subtitle": "This app requires access to your device’s camera to take photos and record videos. Please grant camera permission to use all features."
+    }
+  }
+}
